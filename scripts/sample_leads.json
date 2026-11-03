@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Mark Jensen",
+    "email": "mark@nordicparts.dk",
+    "company": "Nordic Parts ApS",
+    "message": "We get ~200 supplier price lists per month as emails and PDFs. Need an automation that extracts prices, updates our Google Sheet and flags changes over 5%. Ideally n8n + Python. Would like to start ASAP.",
+    "budget": "$3k",
+    "source": "website"
+  },
+  {
+    "name": "Priya Shah",
+    "email": "priya@brightdental.co.uk",
+    "company": "Bright Dental",
+    "message": "Looking for a chatbot on our website that answers patient questions from our FAQ and books appointments. Using GPT is fine.",
+    "budget": "1,500 USD",
+    "source": "typeform"
+  },
+  {
+    "name": "Alex",
+    "email": "alex.k@gmail.com",
+    "message": "need scraper for amazon prices",
+    "budget": "50",
+    "source": "website"
+  },
+  {
+    "name": "Lena Weber",
+    "email": "lena@urbanloft.de",
+    "company": "Urban Loft Immobilien",
+    "message": "Hi, we need a FastAPI backend that connects our property database to our CRM and syncs leads every hour. Timeline: within a month.",
+    "budget": "2-3k",
+    "source": "referral"
+  },
+  {
+    "name": "Tom",
+    "email": "tom@example.com",
+    "message": "Can you design a logo for my bakery?",
+    "source": "website"
+  }
+]
